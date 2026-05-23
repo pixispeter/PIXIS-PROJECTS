@@ -1,8 +1,8 @@
-# PIXISREPO
+# PIXIS-PROJECTS
 
-PIXISREPO contains the files and instructions needed to set up the PIXIS Volumio installation flow.
+PIXIS-PRPJECTS contains the files and instructions needed to set up PIXIS PROJECTS.
 
-The project is designed for users who want a simple first-time setup experience on supported hardware.
+Project are designed for users who want a simple first-time setup experience on supported hardware.
 
 ## Contents
 
